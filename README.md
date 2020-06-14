@@ -1,5 +1,5 @@
 # Onedot Data Integration
-This repo contains code for an example of a local spark pipeline
+This repo contains code for an example of a local spark pipeline. More detail of the implementation can be found in the 'Data Integration.docx' document.
 
 ## How to run
 Run 'mvn clean install' on the project to generate a portable jar, and then just run it locally as such:
